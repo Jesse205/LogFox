@@ -1,4 +1,6 @@
-# LogFox
+# LogFox 通义灵码注释版
+
+此分支是使用通义灵码添加了中文注释的分支。
 
 <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="200" />
 
